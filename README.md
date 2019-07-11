@@ -1,5 +1,7 @@
 # vue-cli3 初探模板
 
+## 适合平时开发所需配置
+
 ## Project setup
 ```
 npm install
