@@ -1,4 +1,4 @@
-# wan2
+# vue-cli3 初探模板
 
 ## Project setup
 ```
